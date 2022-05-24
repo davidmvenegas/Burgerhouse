@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Burgerhouse/static/css/main.c9bf4cf1.css",
+    "main.js": "/Burgerhouse/static/js/main.1e1f070f.js",
+    "static/media/about.png": "/Burgerhouse/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/banner.png": "/Burgerhouse/static/media/banner.192d127276189eb9c330.png",
+    "static/media/footer.png": "/Burgerhouse/static/media/footer.53806b7daa8d1ecfff9d.png",
+    "static/media/s1.png": "/Burgerhouse/static/media/s1.8a4fa4559949141455f1.png",
+    "static/media/s2.png": "/Burgerhouse/static/media/s2.b0665d1810c1ae19dfa3.png",
+    "index.html": "/Burgerhouse/index.html",
+    "main.c9bf4cf1.css.map": "/Burgerhouse/static/css/main.c9bf4cf1.css.map",
+    "main.1e1f070f.js.map": "/Burgerhouse/static/js/main.1e1f070f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9bf4cf1.css",
+    "static/js/main.1e1f070f.js"
+  ]
+}
